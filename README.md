@@ -102,3 +102,7 @@ hauora-connect-nz-fhir
 │   └── immunization.json
 │
 └── mockups
+
+## Dashboard Mockup
+
+![HauoraConnect NZ Patient Summary](mockups/Patient%20Summary.png)
