@@ -106,4 +106,4 @@ hauora-connect-nz-fhir
 
 ## Dashboard Mockup
 
-![HauoraConnect NZ Patient Summary](mockups/Patient%20Summary.png)
+mockups/Patient Summary.png
