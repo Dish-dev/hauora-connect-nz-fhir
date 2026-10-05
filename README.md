@@ -103,6 +103,12 @@ hauora-connect-nz-fhir
 │
 └── mockups
 
+
+That closes the code block.
+
+Then leave a blank line and keep your dashboard section like this:
+
+```markdown
 ## Dashboard Mockup
 
 ![HauoraConnect NZ Patient Summary](mockups/Patient%20Summary.png)
