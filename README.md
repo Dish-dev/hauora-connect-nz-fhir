@@ -1,6 +1,6 @@
 **Disclaimer
 This is an independent portfolio project using synthetic data.
-It is not an official Health New Zealand | Te Whatu Ora product and is not connected to production health systems.**
+It is not an official product and is not connected to production health systems.**
 
 # HauoraConnect NZ
 
