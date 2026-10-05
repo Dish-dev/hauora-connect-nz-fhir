@@ -1,0 +1,24 @@
+{
+  "resourceType": "MedicationRequest",
+  "id": "medication-request-001",
+  "status": "active",
+  "intent": "order",
+  "medicationCodeableConcept": {
+    "text": "Metformin 500 mg tablet"
+  },
+  "subject": {
+    "reference": "Patient/patient-001",
+    "display": "Mere Thompson"
+  },
+  "authoredOn": "2026-09-10",
+  "dosageInstruction": [
+    {
+      "text": "Take one tablet twice daily with food."
+    }
+  ],
+  "note": [
+    {
+      "text": "Synthetic example for portfolio demonstration only."
+    }
+  ]
+}
