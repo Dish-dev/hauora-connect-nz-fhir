@@ -1,0 +1,47 @@
+{
+  "resourceType": "Observation",
+  "id": "observation-hba1c-001",
+  "status": "final",
+  "category": [
+    {
+      "coding": [
+        {
+          "system": "http://terminology.hl7.org/CodeSystem/observation-category",
+          "code": "laboratory",
+          "display": "Laboratory"
+        }
+      ]
+    }
+  ],
+  "code": {
+    "coding": [
+      {
+        "system": "http://loinc.org",
+        "code": "4548-4",
+        "display": "Hemoglobin A1c/Hemoglobin.total in Blood"
+      }
+    ],
+    "text": "HbA1c"
+  },
+  "subject": {
+    "reference": "Patient/patient-001",
+    "display": "Mere Thompson"
+  },
+  "effectiveDateTime": "2026-09-15",
+  "valueQuantity": {
+    "value": 67,
+    "unit": "mmol/mol",
+    "system": "http://unitsofmeasure.org",
+    "code": "mmol/mol"
+  },
+  "interpretation": [
+    {
+      "text": "Above target"
+    }
+  ],
+  "note": [
+    {
+      "text": "Synthetic example for portfolio demonstration only."
+    }
+  ]
+}
