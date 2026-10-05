@@ -106,4 +106,4 @@ hauora-connect-nz-fhir
 
 ## Dashboard Mockup
 
-mockups/Patient Summary.png
+[mockups/Patient Summary.png](https://github.com/Dish-dev/hauora-connect-nz-fhir/blob/4955234854a58e75b106c7ae20e29379319a2bc7/mockups/Patient%20Summary.png)
